@@ -1,0 +1,7 @@
+openai
+tweepy
+python-dotenv
+requests
+jinja2
+playwright
+Pillow

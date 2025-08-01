@@ -1,0 +1,4 @@
+{
+  "summarize_prompt": "Summarize the following tweet as a short news headline and one-sentence summary:\n\nTweet: {tweet}",
+  "caption_prompt": "Write an engaging Instagram caption for this news post:\n\nTitle: {title}\nSummary: {summary}\n\nMake it short, informal, and include 2 relevant hashtags."
+}
